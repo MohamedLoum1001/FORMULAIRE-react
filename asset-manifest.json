@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FORMULAIRE-react/static/css/main.44f8b8b5.css",
+    "main.js": "/FORMULAIRE-react/static/js/main.7e706455.js",
+    "static/js/787.65ea1358.chunk.js": "/FORMULAIRE-react/static/js/787.65ea1358.chunk.js",
+    "index.html": "/FORMULAIRE-react/index.html",
+    "main.44f8b8b5.css.map": "/FORMULAIRE-react/static/css/main.44f8b8b5.css.map",
+    "main.7e706455.js.map": "/FORMULAIRE-react/static/js/main.7e706455.js.map",
+    "787.65ea1358.chunk.js.map": "/FORMULAIRE-react/static/js/787.65ea1358.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.7e706455.js"
+  ]
+}
